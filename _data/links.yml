@@ -1,12 +1,11 @@
 fixed-button-width: false # Set to true/false
 icon-position: left # Set to left/right
 buttons:
-  - category: Blogs
+  - category: Sites
     items:
-    - title: Example
-      url: https://www.example.com
-      icon: tdesign:activity # Icons are optional
-      tag: Tag
+    - title: Main Page
+      url: https://jacksonwengler.github.io/
+      icon: https://icon-sets.iconify.design # Icons are optional
 
     - title: Example 2
       url: https://www.example.org

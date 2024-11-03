@@ -5,10 +5,8 @@ buttons:
     items:
     - title: Main Page
       url: https://jacksonwengler.github.io/
-      icon: https://icon-sets.iconify.design # Icons are optional
     - Title: This Site
       url: https://jacksonwengler.github.io/projects
-      icon: formkit:url
 
     #- title: Example 2
      # url: https://www.example.org

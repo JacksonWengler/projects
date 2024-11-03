@@ -19,9 +19,8 @@ buttons:
     - title: Europa Mission PBL Project
       url: https://jacksonwengler.github.io/europamission
 
-  - category: Works
-    items:
-    - title: Example 4
-      url: https://www.example.org
-      icon: ion:flower-sharp
-      tag: New
+#  - category: Works
+ #   items:
+  #  - title: Example 4
+   #   url: https://www.example.org
+    # tag: New
